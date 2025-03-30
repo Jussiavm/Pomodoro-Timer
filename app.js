@@ -110,6 +110,5 @@ const appTimer = () => {
     }
 }
 startBtn.addEventListener('click', appTimer);
-// Just a comment to see if the changes appear in git
 
 
